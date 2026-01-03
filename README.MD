@@ -34,9 +34,5 @@
   </a>
 </p>
 
-## 📊 GitHub Stats
-![Phar's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-
 ## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/)  
-- [Portfolio Website](https://yourwebsite.com)  
+- [Odyssey Profile](https://nongza.vercel.app/) 
