@@ -1,10 +1,35 @@
+<!-- ██████████████████████████████████████████████████████████████████ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ██  RETRO TECH TERMINAL v2.0 — phardol1751 SYSTEM ONLINE  ██ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ██████████████████████████████████████████████████████████████████ -->
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   ██████╗ ██╗  ██╗ █████╗ ██████╗                            ║
+║   ██╔══██╗██║  ██║██╔══██╗██╔══██╗                           ║
+║   ██████╔╝███████║███████║██████╔╝                           ║
+║   ██╔═══╝ ██╔══██║██╔══██║██╔══██╗                           ║
+║   ██║     ██║  ██║██║  ██║██║  ██║                           ║
+║   ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝                           ║
+║                                                              ║
+║           [ SYSTEM INITIALIZED — WELCOME, USER ]             ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
 <!-- Header Banner with Typing Animation -->
 <div align="center">
   
   ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there!%20I'm%20Phar%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32)
 
   <!-- Typing Animation -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;DevOps+Enthusiast+%F0%9F%9A%80;SQL+%26+Oracle+Specialist+%F0%9F%97%84%EF%B8%8F;Always+Learning+New+Things+%F0%9F%93%9A;Based+in+Bangkok%2C+Thailand+%F0%9F%87%B9%F0%9F%87%AD)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=%3E_+Full+Stack+Developer+%F0%9F%92%BB;%3E_+DevOps+Enthusiast+%F0%9F%9A%80;%3E_+SQL+%26+Oracle+Specialist+%F0%9F%97%84%EF%B8%8F;%3E_+Always+Learning+New+Things+%F0%9F%93%9A;%3E_+Based+in+Bangkok%2C+Thailand+%F0%9F%87%B9%F0%9F%87%AD)](https://git.io/typing-svg)
 
   <!-- Profile Views Counter -->
   ![Profile Views](https://komarev.com/ghpvc/?username=phardol1751&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
@@ -16,6 +41,16 @@
 
 ---
 
+<div align="center">
+
+```
+┌─────────────────────────────────────────────┐
+│  ░▒▓█  ACHIEVEMENT UNLOCKED  █▓▒░          │
+└─────────────────────────────────────────────┘
+```
+
+</div>
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -26,6 +61,15 @@
 
 ---
 
+<div align="center">
+
+```
+┌─────────────────────────────────────────────┐
+│  ░▒▓█  SYSTEM ACTIVITY LOG  █▓▒░           │
+└─────────────────────────────────────────────┘
+```
+
+</div>
 
 ## 📈 Contribution Graph
 
@@ -37,16 +81,36 @@
 
 ---
 
+<div align="center">
+
+```
+┌─────────────────────────────────────────────┐
+│  ░▒▓█  LOADING USER PROFILE...  █▓▒░       │
+│  ████████████████████████████░░  95%        │
+└─────────────────────────────────────────────┘
+```
+
+</div>
+
 ## 🚀 About Me
 
 ```javascript
+// ═══════════════════════════════════════════
+// ░░░  PHAR_SYSTEM.config  ░░░
+// ═══════════════════════════════════════════
+
 const phar = {
+    _version: "2.0.26",
+    _status: "ONLINE ████████████ 100%",
     location: "Bangkok, Thailand 🇹🇭",
     currentFocus: ["SQL Optimization", "Next.js Projects", "DevOps Automation"],
     learning: ["Cloud Architecture", "AI/ML Integration"],
     askMeAbout: ["Web Dev", "Oracle DB", "Docker", "Automation"],
     funFact: "I debug with console.log and I'm not ashamed! 🐛"
 };
+
+// > SYSTEM: User profile loaded successfully.
+// > UPTIME: 99.9% | COFFEE_LEVEL: ████░░ 67%
 ```
 
 - 💻 Passionate about coding and workflow automation
@@ -55,6 +119,19 @@ const phar = {
 - ⚡ Fun fact: I love turning complex problems into simple solutions
 
 ---
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────┐
+│  ░▒▓█  HARDWARE & SOFTWARE SCAN  █▓▒░      │
+│  > Scanning installed modules...            │
+│  > 16 modules detected                     │
+│  > STATUS: ALL SYSTEMS OPERATIONAL          │
+└─────────────────────────────────────────────┘
+```
+
+</div>
 
 ## 🛠️ Tech Stack
 
@@ -92,6 +169,19 @@ const phar = {
 
 ---
 
+<div align="center">
+
+```
+┌─────────────────────────────────────────────┐
+│  ░▒▓█  ESTABLISHING CONNECTION  █▓▒░       │
+│  > ping nongza.vercel.app                  │
+│  > 64 bytes: time=1ms TTL=64               │
+│  > CONNECTION: ESTABLISHED ✓               │
+└─────────────────────────────────────────────┘
+```
+
+</div>
+
 ## 🌐 Connect with Me
 
 <div align="center">
@@ -102,6 +192,16 @@ const phar = {
 </div>
 
 ---
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────┐
+│  ░▒▓█  TRANSMISSION INCOMING  █▓▒░         │
+└─────────────────────────────────────────────┘
+```
+
+</div>
 
 ## 💡 Random Dev Quote
 
@@ -115,9 +215,32 @@ const phar = {
 
 <!-- Footer -->
 <div align="center">
-  
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   ████████╗██╗  ██╗ █████╗ ███╗   ██╗██╗  ██╗███████╗       ║
+║   ╚══██╔══╝██║  ██║██╔══██╗████╗  ██║██║ ██╔╝██╔════╝       ║
+║      ██║   ███████║███████║██╔██╗ ██║█████╔╝ ███████╗       ║
+║      ██║   ██╔══██║██╔══██║██║╚██╗██║██╔═██╗ ╚════██║       ║
+║      ██║   ██║  ██║██║  ██║██║ ╚████║██║  ██╗███████║       ║
+║      ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝       ║
+║                                                              ║
+║          > Thanks for visiting, fellow hacker! 🖥️            ║
+║          > Star some repos if you like my work! ⭐           ║
+║          > SESSION TERMINATED. GOODBYE.                      ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
   
-  **Thanks for visiting! ⭐ Star some repos if you like my work!**
+  **`> SYSTEM: Connection closed by remote host.`**
+  
+  ![Snake](https://raw.githubusercontent.com/phardol1751/phardol1751/output/github-snake-dark.svg)
   
 </div>
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ░░  END OF TRANSMISSION — phardol1751 SYSTEM v2.0  ░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
