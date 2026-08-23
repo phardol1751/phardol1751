@@ -67,6 +67,15 @@
 
 <div align="center">
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=phardol1751&show_icons=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&count_private=true&hide_border=true" alt="Phardol's Stats" height="165" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phardol1751&layout=compact&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&count_private=true&hide_border=true" alt="Top Languages" height="165" />
+</a>
+
+<br><br>
+
 <img src="https://github-readme-streak-stats.herokuapp.com?user=phardol1751&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=555555" alt="GitHub Streak"/>
 
 </div>
@@ -82,6 +91,13 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=phardol1751&custom_title=%20%24%20cat%20%2Fvar%2Flog%2Factivity.log&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area_color=00ff41&title_color=00ff41&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
 
 </div>
+
+```bash
+* e4a1b2c (HEAD -> main, origin/main) feat(sys): enterprise microservices & workflow automation [NDA Private Repo]
+* 4e5f6g7 feat(db): SQL optimization & Oracle DB execution tuning (-65% query latency)
+* 8h9i0j1 feat(devops): dockerized containerization & CI/CD deployment pipelines
+* 2k3l4m5 feat(frontend): responsive Next.js web application architecture
+```
 
 <br>
 
@@ -102,6 +118,11 @@
         "handle": "phar",
         "base": "Bangkok, Thailand 🇹🇭",
         "class": "Full Stack Developer"
+    },
+    "stats_overview": {
+        "private_contributions": "ENABLED 🟢",
+        "confidentiality": "NDA Compliant",
+        "primary_focus": "Enterprise Systems & High-Scale Automation"
     },
     "current_processes": [
         "SQL Optimization      [PID 4201] ██████████░░ 83%",
