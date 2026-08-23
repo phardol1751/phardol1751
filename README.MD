@@ -20,7 +20,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=phardol1751&color=00ff41&style=flat-square&label=VISITORS" alt="Profile Views"/>
 &nbsp;
-<a href="https://nongza.vercel.app/"><img src="https://img.shields.io/badge/⚡_PORTFOLIO-nongza.vercel.app-00ff41?style=flat-square&labelColor=0d1117" alt="Portfolio"/></a>
+<a href="https://N/A/"><img src="https://img.shields.io/badge/⚡_PORTFOLIO-N/A-00ff41?style=flat-square&labelColor=0d1117" alt="Portfolio"/></a>
 &nbsp;
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff41?style=flat-square&labelColor=0d1117" alt="Status"/>
 
