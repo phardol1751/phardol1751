@@ -68,10 +68,10 @@
 <div align="center">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=phardol1751&show_icons=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&count_private=true&hide_border=true" alt="Phardol's Stats" height="165" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=phardol1751&show_icons=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&count_private=true&hide_border=true" alt="Phardol's Stats" height="165" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phardol1751&layout=compact&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&count_private=true&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=phardol1751&layout=compact&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&count_private=true&hide_border=true" alt="Top Languages" height="165" />
 </a>
 
 <br><br>
