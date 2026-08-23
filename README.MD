@@ -32,38 +32,48 @@
 
 <br>
 
+<div align="center">
+
 ```
- ╔═══════════════════════════════════════════════════════════════════════════╗
- ║                                                                         ║
- ║   root@phar:~# cat /etc/motd                                           ║
- ║                                                                         ║
- ║   ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄   ║
- ║   █                                                                 █   ║
- ║   █   ██████  ██   ██  █████  ██████                                █   ║
- ║   █   ██   ██ ██   ██ ██   ██ ██   ██                               █   ║
- ║   █   ██████  ███████ ███████ ██████    >> SYSTEM v3.0              █   ║
- ║   █   ██      ██   ██ ██   ██ ██   ██   >> Bangkok, TH 🇹🇭          █   ║
- ║   █   ██      ██   ██ ██   ██ ██   ██   >> Full Stack Developer     █   ║
- ║   █                                                                 █   ║
- ║   ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀   ║
- ║                                                                         ║
- ║   [BOOT] Loading kernel modules................ [OK]                    ║
- ║   [INIT] Starting network services............. [OK]                    ║
- ║   [AUTH] Verifying credentials................. [OK]                    ║
- ║   [SYS ] All systems operational............... [OK]                    ║
- ║                                                                         ║
- ╚═══════════════════════════════════════════════════════════════════════════╝
+╔═════════════════════════════════════════════════════════════╗
+║                                                             ║
+║  root@phar:~# cat /etc/motd                                ║
+║                                                             ║
+║  ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄  ║
+║  █                                                       █  ║
+║  █  ██████  ██   ██  █████  ██████                       █  ║
+║  █  ██   ██ ██   ██ ██   ██ ██   ██                      █  ║
+║  █  ██████  ███████ ███████ ██████   >> SYS v3.0         █  ║
+║  █  ██      ██   ██ ██   ██ ██   ██  >> Bangkok 🇹🇭       █  ║
+║  █  ██      ██   ██ ██   ██ ██   ██  >> FullStack Dev    █  ║
+║  █                                                       █  ║
+║  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀  ║
+║                                                             ║
+║  [BOOT] Loading kernel modules............ [OK]            ║
+║  [INIT] Starting network services......... [OK]            ║
+║  [AUTH] Verifying credentials............. [OK]            ║
+║  [SYS ] All systems operational........... [OK]            ║
+║                                                             ║
+╚═════════════════════════════════════════════════════════════╝
 ```
+
+</div>
 
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## `> sudo cat /proc/achievements`
+## `> htop --sort=commits`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=phardol1751&theme=matrix&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="Trophies"/>
+<img src="https://github-readme-stats.vercel.app/api?username=phardol1751&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&icon_color=00ff41&title_color=00ff41&text_color=00ff41&ring_color=00ff41" height="180" alt="GitHub Stats"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phardol1751&layout=compact&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&title_color=00ff41&text_color=00ff41" height="180" alt="Top Languages"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=phardol1751&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=555555" alt="GitHub Streak"/>
 
 </div>
 
@@ -157,6 +167,7 @@ drwxr-xr-x  phar  staff  ai-tools/
 <a href="#"><img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776ab" alt="Python"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ed8b00" alt="Java"/></a>
 <a href="#"><img src="https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=777bb4" alt="PHP"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Go-0d1117?style=for-the-badge&logo=go&logoColor=00ADD8" alt="Go"/></a>
 
 ### `./databases/ ━━━━━━━━━━━━━━━━━━━━━━`
 
@@ -246,8 +257,6 @@ Nmap done: 1 IP address (1 host up) scanned in 0.42 seconds
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=120&section=footer" width="100%"/>
-
-<img src="https://raw.githubusercontent.com/phardol1751/phardol1751/output/github-snake-dark.svg" alt="Snake animation" />
 
 **`[phar@system ~]$ exit`**
 
