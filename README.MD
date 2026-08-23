@@ -37,9 +37,9 @@
 ```
 ╔═════════════════════════════════════════════════════════════╗
 ║                                                             ║
-║  root@phar:~# cat /etc/motd                                ║
+║  root@phar:~# cat /etc/motd                                 ║
 ║                                                             ║
-║  ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄  ║
+║  ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄    ║
 ║  █                                                       █  ║
 ║  █  ██████  ██   ██  █████  ██████                       █  ║
 ║  █  ██   ██ ██   ██ ██   ██ ██   ██                      █  ║
@@ -47,12 +47,12 @@
 ║  █  ██      ██   ██ ██   ██ ██   ██  >> Bangkok 🇹🇭       █  ║
 ║  █  ██      ██   ██ ██   ██ ██   ██  >> FullStack Dev    █  ║
 ║  █                                                       █  ║
-║  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀  ║
+║  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀      ║
 ║                                                             ║
-║  [BOOT] Loading kernel modules............ [OK]            ║
-║  [INIT] Starting network services......... [OK]            ║
-║  [AUTH] Verifying credentials............. [OK]            ║
-║  [SYS ] All systems operational........... [OK]            ║
+║  [BOOT] Loading kernel modules............ [OK]             ║
+║  [INIT] Starting network services......... [OK]             ║
+║  [AUTH] Verifying credentials............. [OK]             ║
+║  [SYS ] All systems operational........... [OK]             ║
 ║                                                             ║
 ╚═════════════════════════════════════════════════════════════╝
 ```
@@ -66,12 +66,6 @@
 ## `> htop --sort=commits`
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=phardol1751&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&icon_color=00ff41&title_color=00ff41&text_color=00ff41&ring_color=00ff41" height="180" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phardol1751&layout=compact&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&title_color=00ff41&text_color=00ff41" height="180" alt="Top Languages"/>
-
-<br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=phardol1751&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=555555" alt="GitHub Streak"/>
 
