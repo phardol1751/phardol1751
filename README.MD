@@ -47,3 +47,5 @@
 
 ## 🌐 Connect with Me
 - [Odyssey Profile](https://nongza.vercel.app/)  
+- Minor update for achievements
+- Achievement test update
